@@ -1,6 +1,8 @@
 /* Body styling */
+
+
 body {
-  background: #713e94;
+  background: #da4b29;
   color: #fff;
   font-family: Helvetica, Arial;
   font-size: 27px;
@@ -14,7 +16,7 @@ body {
 
 /* Heading Styles */
 h1 {
-  font-size: 60px;
+  font-size: 100px;
   color: #fff;
   text-align: center;
 }
@@ -99,7 +101,7 @@ h1 {
 #answers p {
   max-width: 760px;
   margin: auto;
-  padding: 20px 0;
+  padding: 40px 0;
 }
 
 #answers p span {
